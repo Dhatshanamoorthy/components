@@ -1,0 +1,26 @@
+div {
+    
+background-color: rgb(243, 199, 243);
+border: 10px;
+}
+
+.p50{
+
+    padding: 50px;
+}
+
+.height-500{
+    border: 10px;
+    height: 500px;
+}
+
+.color-1{
+
+    background-color: violet;
+    padding: 10px;
+}
+
+div {
+
+    border: 10px;
+}
